@@ -1,0 +1,33 @@
+*{
+    font-family: 'Times New Roman', Times, serif Arial, Helvetica, sans-serif;
+}
+
+.header1 h1 {
+    color: chartreuse;
+    text-align: center;
+}
+.like_list ol h2 {
+    color: red;
+    text-align: center;
+}
+#header1_list li {
+    text-align: center;
+    text-justify: distribute;
+    font-size:2em ;
+    justify-content: center;
+    color: brown;
+    opacity: 60%;
+}
+.header2 h2 {
+    text-align: center;
+    color: blueviolet;
+}
+#header2_list {
+    text-align: center;
+    list-style-type: square;
+    font-size:2em ;
+    color: coral;
+    opacity: 60%;
+
+
+}
