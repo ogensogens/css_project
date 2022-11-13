@@ -1,5 +1,6 @@
 *{
     font-family: 'Times New Roman', Times, serif Arial, Helvetica, sans-serif;
+    background-color: white;
 }
 
 .header1 h1 {
@@ -28,6 +29,62 @@
     font-size:2em ;
     color: coral;
     opacity: 60%;
+}
 
+.firstSection {
+    color: green;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 25em;
+}
+.firstSection h1 {
+    font-size: 18px;    
+}
+.firstSection h2 {
+    text-decoration: underline;
+    margin-left: 2.7em;
+}
 
+.secondSection {
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 23em;
+}
+.secondSection h1 {
+    font-size: 18px;
+}
+.tables {
+    border: 2px solid black;
+    margin-left: 6.8em;
+}
+.tableheading th {
+    border: 1px solid black;
+    margin: auto;
+    
+}
+.tableData td {
+    border: 1px solid black;
+    margin: auto;
+    padding: 0.5em;
+    
+}
+
+figcaption{
+    color: blue;
+    font-size: 1.0em;
+    font-weight: bold;
+    margin-left: 23em;
+    padding-bottom: 0.7em;
+}
+
+.thirdSection {
+    font-size: 14px;
+    color: blue;
+    font-style: italic;
+}
+.thirdSection h1 {
+    font-size: 18px;
 }
