@@ -1,9 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .context {
     color: red;
     display: flex;
     flex-direction: row;
 =======
+=======
+>>>>>>> 30d0b0f ( CSS PROJECT)
 .Intro {
   border: 2px solid rgb(143, 188, 187);
   box-sizing: border-box;
@@ -97,5 +100,8 @@
 }
 a:link {
     text-decoration: none;
+<<<<<<< HEAD
 >>>>>>> ae909a8 (first commit)
+=======
+>>>>>>> 30d0b0f ( CSS PROJECT)
 }
